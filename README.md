@@ -59,7 +59,8 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShotaroIto" />
+<img src="https://github-readme-stats-shotaro.vercel.app/api/top-langs/?username=ShotaroIto" />
+<img src="https://github-readme-stats-shotaro.vercel.app/api?username=ShotaroIto&show_icons=true&theme=transparent" />
 </div> 
 
 <br/>  
