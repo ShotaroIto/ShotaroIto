@@ -3,9 +3,11 @@
 # I'm Shotaro, a Developer from Future University Hakodate
 </div>
 
+<br/>
+
 ## 📆 Timeline
 - **4/2019~10/2021** Application Developer
-- **11/2021~** Designer & Engineer
+- **11/2021~** Desigineer
 
 <br/>
 
@@ -76,5 +78,3 @@
 <a href="https://www.facebook.com/shot110.403" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
-
-
